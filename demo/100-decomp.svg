@@ -1,0 +1,2316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100%"
+   preserveAspectRatio="none"
+   version="1.2"
+   width="100%"
+   id="svg12014"
+   sodipodi:docname="100-decomp.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata12018">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview12016"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="39.843294"
+     inkscape:cy="1.1254068"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12014" />
+  <defs
+     id="defs11048" />
+  <g
+     id="g12397">
+    <path
+       style="stroke:#ff0000"
+       id="path11050"
+       d="m 0 0 A 1.0 1.0 0 1,0 2 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11052"
+       d="m 2 0 A 1.0 1.0 0 1,1 4 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11054"
+       d="m 4 0 A 1.0 1.0 0 1,1 6 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11056"
+       d="m 6 0 A 1.0 1.0 0 1,1 8 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11058"
+       d="m 8 0 A 1.0 1.0 0 1,1 10 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11060"
+       d="m 10 0 A 1.0 1.0 0 1,1 12 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11062"
+       d="m 12 0 A 1.0 1.0 0 1,1 14 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11064"
+       d="m 14 0 A 1.0 1.0 0 1,1 16 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11066"
+       d="m 16 0 A 1.0 1.0 0 1,1 18 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11068"
+       d="m 18 0 A 1.0 1.0 0 1,1 20 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11070"
+       d="m 20 0 A 1.0 1.0 0 1,1 22 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11072"
+       d="m 22 0 A 1.0 1.0 0 1,1 24 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11074"
+       d="m 24 0 A 1.0 1.0 0 1,1 26 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11076"
+       d="m 26 0 A 1.0 1.0 0 1,1 28 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11078"
+       d="m 28 0 A 1.0 1.0 0 1,1 30 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11080"
+       d="m 30 0 A 1.0 1.0 0 1,1 32 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11082"
+       d="m 32 0 A 1.0 1.0 0 1,1 34 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11084"
+       d="m 34 0 A 1.0 1.0 0 1,1 36 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11086"
+       d="m 36 0 A 1.0 1.0 0 1,1 38 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11088"
+       d="m 38 0 A 1.0 1.0 0 1,1 40 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11090"
+       d="m 40 0 A 1.0 1.0 0 1,1 42 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11092"
+       d="m 42 0 A 1.0 1.0 0 1,1 44 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11094"
+       d="m 44 0 A 1.0 1.0 0 1,1 46 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11096"
+       d="m 46 0 A 1.0 1.0 0 1,1 48 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11098"
+       d="m 48 0 A 1.0 1.0 0 1,1 50 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11100"
+       d="m 50 0 A 1.0 1.0 0 1,1 52 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11102"
+       d="m 52 0 A 1.0 1.0 0 1,1 54 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11104"
+       d="m 54 0 A 1.0 1.0 0 1,1 56 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11106"
+       d="m 56 0 A 1.0 1.0 0 1,1 58 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11108"
+       d="m 58 0 A 1.0 1.0 0 1,1 60 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11110"
+       d="m 60 0 A 1.0 1.0 0 1,1 62 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11112"
+       d="m 62 0 A 1.0 1.0 0 1,1 64 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11114"
+       d="m 64 0 A 1.0 1.0 0 1,1 66 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11116"
+       d="m 66 0 A 1.0 1.0 0 1,1 68 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11118"
+       d="m 68 0 A 1.0 1.0 0 1,1 70 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11120"
+       d="m 70 0 A 1.0 1.0 0 1,1 72 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11122"
+       d="m 72 0 A 1.0 1.0 0 1,1 74 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11124"
+       d="m 74 0 A 1.0 1.0 0 1,1 76 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11126"
+       d="m 76 0 A 1.0 1.0 0 1,1 78 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11128"
+       d="m 78 0 A 1.0 1.0 0 1,1 80 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11130"
+       d="m 80 0 A 1.0 1.0 0 1,1 82 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11132"
+       d="m 82 0 A 1.0 1.0 0 1,1 84 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11134"
+       d="m 84 0 A 1.0 1.0 0 1,1 86 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11136"
+       d="m 86 0 A 1.0 1.0 0 1,1 88 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11138"
+       d="m 88 0 A 1.0 1.0 0 1,1 90 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11140"
+       d="m 90 0 A 1.0 1.0 0 1,1 92 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11142"
+       d="m 92 0 A 1.0 1.0 0 1,1 94 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11144"
+       d="m 94 0 A 1.0 1.0 0 1,1 96 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11146"
+       d="m 96 0 A 1.0 1.0 0 1,1 98 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11148"
+       d="m 98 0 A 1.0 1.0 0 1,1 100 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11150"
+       d="m 0 0 A 1.5 1.5 0 1,0 3 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11152"
+       d="m 3 0 A 1.5 1.5 0 1,1 6 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11154"
+       d="m 6 0 A 1.5 1.5 0 1,1 9 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11156"
+       d="m 9 0 A 1.5 1.5 0 1,1 12 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11158"
+       d="m 12 0 A 1.5 1.5 0 1,1 15 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11160"
+       d="m 15 0 A 1.5 1.5 0 1,1 18 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11162"
+       d="m 18 0 A 1.5 1.5 0 1,1 21 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11164"
+       d="m 21 0 A 1.5 1.5 0 1,1 24 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11166"
+       d="m 24 0 A 1.5 1.5 0 1,1 27 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11168"
+       d="m 27 0 A 1.5 1.5 0 1,1 30 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11170"
+       d="m 30 0 A 1.5 1.5 0 1,1 33 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11172"
+       d="m 33 0 A 1.5 1.5 0 1,1 36 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11174"
+       d="m 36 0 A 1.5 1.5 0 1,1 39 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11176"
+       d="m 39 0 A 1.5 1.5 0 1,1 42 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11178"
+       d="m 42 0 A 1.5 1.5 0 1,1 45 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11180"
+       d="m 45 0 A 1.5 1.5 0 1,1 48 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11182"
+       d="m 48 0 A 1.5 1.5 0 1,1 51 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11184"
+       d="m 51 0 A 1.5 1.5 0 1,1 54 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11186"
+       d="m 54 0 A 1.5 1.5 0 1,1 57 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11188"
+       d="m 57 0 A 1.5 1.5 0 1,1 60 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11190"
+       d="m 60 0 A 1.5 1.5 0 1,1 63 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11192"
+       d="m 63 0 A 1.5 1.5 0 1,1 66 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11194"
+       d="m 66 0 A 1.5 1.5 0 1,1 69 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11196"
+       d="m 69 0 A 1.5 1.5 0 1,1 72 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11198"
+       d="m 72 0 A 1.5 1.5 0 1,1 75 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11200"
+       d="m 75 0 A 1.5 1.5 0 1,1 78 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11202"
+       d="m 78 0 A 1.5 1.5 0 1,1 81 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11204"
+       d="m 81 0 A 1.5 1.5 0 1,1 84 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11206"
+       d="m 84 0 A 1.5 1.5 0 1,1 87 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11208"
+       d="m 87 0 A 1.5 1.5 0 1,1 90 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11210"
+       d="m 90 0 A 1.5 1.5 0 1,1 93 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11212"
+       d="m 93 0 A 1.5 1.5 0 1,1 96 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11214"
+       d="m 96 0 A 1.5 1.5 0 1,1 99 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11266"
+       d="m 0 0 A 2.5 2.5 0 1,0 5 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11268"
+       d="m 5 0 A 2.5 2.5 0 1,1 10 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11274"
+       d="m 20 0 A 2.5 2.5 0 1,1 25 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11276"
+       d="m 25 0 A 2.5 2.5 0 1,1 30 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11278"
+       d="m 30 0 A 2.5 2.5 0 1,1 35 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11280"
+       d="m 35 0 A 2.5 2.5 0 1,1 40 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11282"
+       d="m 40 0 A 2.5 2.5 0 1,1 45 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11284"
+       d="m 45 0 A 2.5 2.5 0 1,1 50 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11286"
+       d="m 50 0 A 2.5 2.5 0 1,1 55 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11288"
+       d="m 55 0 A 2.5 2.5 0 1,1 60 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11290"
+       d="m 60 0 A 2.5 2.5 0 1,1 65 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11292"
+       d="m 65 0 A 2.5 2.5 0 1,1 70 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11294"
+       d="m 70 0 A 2.5 2.5 0 1,1 75 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11296"
+       d="m 75 0 A 2.5 2.5 0 1,1 80 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11298"
+       d="m 80 0 A 2.5 2.5 0 1,1 85 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11300"
+       d="m 85 0 A 2.5 2.5 0 1,1 90 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11302"
+       d="m 90 0 A 2.5 2.5 0 1,1 95 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11304"
+       d="m 95 0 A 2.5 2.5 0 1,1 100 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11328"
+       d="m 66 0 A 3.0 3.0 0 1,1 72 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11330"
+       d="m 72 0 A 3.0 3.0 0 1,1 78 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11332"
+       d="m 78 0 A 3.0 3.0 0 1,1 84 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11334"
+       d="m 84 0 A 3.0 3.0 0 1,1 90 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11336"
+       d="m 90 0 A 3.0 3.0 0 1,1 96 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11338"
+       d="m 0 0 A 3.5 3.5 0 1,0 7 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11340"
+       d="m 7 0 A 3.5 3.5 0 1,1 14 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11342"
+       d="m 14 0 A 3.5 3.5 0 1,1 21 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11344"
+       d="m 21 0 A 3.5 3.5 0 1,1 28 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11346"
+       d="m 28 0 A 3.5 3.5 0 1,1 35 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11352"
+       d="m 49 0 A 3.5 3.5 0 1,1 56 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11354"
+       d="m 56 0 A 3.5 3.5 0 1,1 63 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11356"
+       d="m 63 0 A 3.5 3.5 0 1,1 70 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11358"
+       d="m 70 0 A 3.5 3.5 0 1,1 77 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11360"
+       d="m 77 0 A 3.5 3.5 0 1,1 84 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11362"
+       d="m 84 0 A 3.5 3.5 0 1,1 91 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11364"
+       d="m 91 0 A 3.5 3.5 0 1,1 98 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11432"
+       d="m 0 0 A 5.5 5.5 0 1,0 11 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11434"
+       d="m 11 0 A 5.5 5.5 0 1,1 22 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11436"
+       d="m 22 0 A 5.5 5.5 0 1,1 33 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11438"
+       d="m 33 0 A 5.5 5.5 0 1,1 44 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11440"
+       d="m 44 0 A 5.5 5.5 0 1,1 55 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11442"
+       d="m 55 0 A 5.5 5.5 0 1,1 66 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11444"
+       d="m 66 0 A 5.5 5.5 0 1,1 77 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11446"
+       d="m 77 0 A 5.5 5.5 0 1,1 88 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11448"
+       d="m 88 0 A 5.5 5.5 0 1,1 99 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11466"
+       d="m 0 0 A 6.5 6.5 0 1,0 13 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11468"
+       d="m 13 0 A 6.5 6.5 0 1,1 26 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11518"
+       d="m 0 0 A 8.5 8.5 0 1,0 17 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11520"
+       d="m 17 0 A 8.5 8.5 0 1,1 34 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11522"
+       d="m 34 0 A 8.5 8.5 0 1,1 51 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11526"
+       d="m 68 0 A 8.5 8.5 0 1,1 85 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11538"
+       d="m 0 0 A 9.5 9.5 0 1,0 19 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11540"
+       d="m 19 0 A 9.5 9.5 0 1,1 38 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11542"
+       d="m 38 0 A 9.5 9.5 0 1,1 57 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11544"
+       d="m 57 0 A 9.5 9.5 0 1,1 76 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11546"
+       d="m 76 0 A 9.5 9.5 0 1,1 95 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11574"
+       d="m 0 0 A 11.5 11.5 0 1,0 23 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11576"
+       d="m 23 0 A 11.5 11.5 0 1,1 46 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11578"
+       d="m 46 0 A 11.5 11.5 0 1,1 69 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11580"
+       d="m 69 0 A 11.5 11.5 0 1,1 92 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11616"
+       d="m 0 0 A 14.5 14.5 0 1,0 29 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11618"
+       d="m 29 0 A 14.5 14.5 0 1,1 58 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11620"
+       d="m 58 0 A 14.5 14.5 0 1,1 87 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11628"
+       d="m 0 0 A 15.5 15.5 0 1,0 31 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11630"
+       d="m 31 0 A 15.5 15.5 0 1,1 62 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11632"
+       d="m 62 0 A 15.5 15.5 0 1,1 93 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11658"
+       d="m 0 0 A 18.5 18.5 0 1,0 37 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11660"
+       d="m 37 0 A 18.5 18.5 0 1,1 74 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11674"
+       d="m 0 0 A 20.5 20.5 0 1,0 41 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11676"
+       d="m 41 0 A 20.5 20.5 0 1,1 82 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11682"
+       d="m 0 0 A 21.5 21.5 0 1,0 43 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11684"
+       d="m 43 0 A 21.5 21.5 0 1,1 86 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11698"
+       d="m 0 0 A 23.5 23.5 0 1,0 47 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#000000"
+       id="path11700"
+       d="m 47 0 A 23.5 23.5 0 1,1 94 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11718"
+       d="m 0 0 A 26.5 26.5 0 1,0 53 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11730"
+       d="m 0 0 A 29.5 29.5 0 1,0 59 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11734"
+       d="m 0 0 A 30.5 30.5 0 1,0 61 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11746"
+       d="m 0 0 A 33.5 33.5 0 1,0 67 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11754"
+       d="m 0 0 A 35.5 35.5 0 1,0 71 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11758"
+       d="m 0 0 A 36.5 36.5 0 1,0 73 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11770"
+       d="m 0 0 A 39.5 39.5 0 1,0 79 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11778"
+       d="m 0 0 A 41.5 41.5 0 1,0 83 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11790"
+       d="m 0 0 A 44.5 44.5 0 1,0 89 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <path
+       style="stroke:#ff0000"
+       id="path11806"
+       d="m 0 0 A 48.5 48.5 0 1,0 97 0"
+       stroke-opacity="0.25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="none" />
+    <circle
+       style="stroke:#000000"
+       id="circle11812"
+       r="0.25"
+       cy="0"
+       cx="0"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11814"
+       r="0.25"
+       cy="0"
+       cx="1"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11816"
+       r="0.25"
+       cy="0"
+       cx="2"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11818"
+       r="0.25"
+       cy="0"
+       cx="3"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11820"
+       r="0.25"
+       cy="0"
+       cx="4"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11822"
+       r="0.25"
+       cy="0"
+       cx="5"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11824"
+       r="0.25"
+       cy="0"
+       cx="6"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11826"
+       r="0.25"
+       cy="0"
+       cx="7"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11828"
+       r="0.25"
+       cy="0"
+       cx="8"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11830"
+       r="0.25"
+       cy="0"
+       cx="9"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11834"
+       r="0.25"
+       cy="0"
+       cx="11"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11836"
+       r="0.25"
+       cy="0"
+       cx="12"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11838"
+       r="0.25"
+       cy="0"
+       cx="13"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11840"
+       r="0.25"
+       cy="0"
+       cx="14"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11844"
+       r="0.25"
+       cy="0"
+       cx="16"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11846"
+       r="0.25"
+       cy="0"
+       cx="17"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11848"
+       r="0.25"
+       cy="0"
+       cx="18"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11850"
+       r="0.25"
+       cy="0"
+       cx="19"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11854"
+       r="0.25"
+       cy="0"
+       cx="21"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11856"
+       r="0.25"
+       cy="0"
+       cx="22"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11858"
+       r="0.25"
+       cy="0"
+       cx="23"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11860"
+       r="0.25"
+       cy="0"
+       cx="24"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11862"
+       r="0.25"
+       cy="0"
+       cx="25"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11864"
+       r="0.25"
+       cy="0"
+       cx="26"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11866"
+       r="0.25"
+       cy="0"
+       cx="27"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11868"
+       r="0.25"
+       cy="0"
+       cx="28"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11870"
+       r="0.25"
+       cy="0"
+       cx="29"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11872"
+       r="0.25"
+       cy="0"
+       cx="30"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11874"
+       r="0.25"
+       cy="0"
+       cx="31"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11876"
+       r="0.25"
+       cy="0"
+       cx="32"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11878"
+       r="0.25"
+       cy="0"
+       cx="33"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11880"
+       r="0.25"
+       cy="0"
+       cx="34"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11882"
+       r="0.25"
+       cy="0"
+       cx="35"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11884"
+       r="0.25"
+       cy="0"
+       cx="36"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11886"
+       r="0.25"
+       cy="0"
+       cx="37"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11888"
+       r="0.25"
+       cy="0"
+       cx="38"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11890"
+       r="0.25"
+       cy="0"
+       cx="39"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11892"
+       r="0.25"
+       cy="0"
+       cx="40"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11894"
+       r="0.25"
+       cy="0"
+       cx="41"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11896"
+       r="0.25"
+       cy="0"
+       cx="42"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11898"
+       r="0.25"
+       cy="0"
+       cx="43"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11900"
+       r="0.25"
+       cy="0"
+       cx="44"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11902"
+       r="0.25"
+       cy="0"
+       cx="45"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11904"
+       r="0.25"
+       cy="0"
+       cx="46"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11906"
+       r="0.25"
+       cy="0"
+       cx="47"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11908"
+       r="0.25"
+       cy="0"
+       cx="48"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11910"
+       r="0.25"
+       cy="0"
+       cx="49"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11912"
+       r="0.25"
+       cy="0"
+       cx="50"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11914"
+       r="0.25"
+       cy="0"
+       cx="51"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11916"
+       r="0.25"
+       cy="0"
+       cx="52"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11918"
+       r="0.25"
+       cy="0"
+       cx="53"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11920"
+       r="0.25"
+       cy="0"
+       cx="54"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11922"
+       r="0.25"
+       cy="0"
+       cx="55"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11924"
+       r="0.25"
+       cy="0"
+       cx="56"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11926"
+       r="0.25"
+       cy="0"
+       cx="57"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11928"
+       r="0.25"
+       cy="0"
+       cx="58"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11930"
+       r="0.25"
+       cy="0"
+       cx="59"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11932"
+       r="0.25"
+       cy="0"
+       cx="60"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11934"
+       r="0.25"
+       cy="0"
+       cx="61"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11936"
+       r="0.25"
+       cy="0"
+       cx="62"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11938"
+       r="0.25"
+       cy="0"
+       cx="63"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11940"
+       r="0.25"
+       cy="0"
+       cx="64"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11942"
+       r="0.25"
+       cy="0"
+       cx="65"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11944"
+       r="0.25"
+       cy="0"
+       cx="66"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11946"
+       r="0.25"
+       cy="0"
+       cx="67"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11948"
+       r="0.25"
+       cy="0"
+       cx="68"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11950"
+       r="0.25"
+       cy="0"
+       cx="69"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11952"
+       r="0.25"
+       cy="0"
+       cx="70"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11954"
+       r="0.25"
+       cy="0"
+       cx="71"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11956"
+       r="0.25"
+       cy="0"
+       cx="72"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11958"
+       r="0.25"
+       cy="0"
+       cx="73"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11960"
+       r="0.25"
+       cy="0"
+       cx="74"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11962"
+       r="0.25"
+       cy="0"
+       cx="75"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11964"
+       r="0.25"
+       cy="0"
+       cx="76"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11966"
+       r="0.25"
+       cy="0"
+       cx="77"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11968"
+       r="0.25"
+       cy="0"
+       cx="78"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11970"
+       r="0.25"
+       cy="0"
+       cx="79"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11972"
+       r="0.25"
+       cy="0"
+       cx="80"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11974"
+       r="0.25"
+       cy="0"
+       cx="81"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11976"
+       r="0.25"
+       cy="0"
+       cx="82"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11978"
+       r="0.25"
+       cy="0"
+       cx="83"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11980"
+       r="0.25"
+       cy="0"
+       cx="84"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11982"
+       r="0.25"
+       cy="0"
+       cx="85"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11984"
+       r="0.25"
+       cy="0"
+       cx="86"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11986"
+       r="0.25"
+       cy="0"
+       cx="87"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11988"
+       r="0.25"
+       cy="0"
+       cx="88"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11990"
+       r="0.25"
+       cy="0"
+       cx="89"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11992"
+       r="0.25"
+       cy="0"
+       cx="90"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11994"
+       r="0.25"
+       cy="0"
+       cx="91"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11996"
+       r="0.25"
+       cy="0"
+       cx="92"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11998"
+       r="0.25"
+       cy="0"
+       cx="93"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle12000"
+       r="0.25"
+       cy="0"
+       cx="94"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle12002"
+       r="0.25"
+       cy="0"
+       cx="95"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle12004"
+       r="0.25"
+       cy="0"
+       cx="96"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle12006"
+       r="0.25"
+       cy="0"
+       cx="97"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle12008"
+       r="0.25"
+       cy="0"
+       cx="98"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle12010"
+       r="0.25"
+       cy="0"
+       cx="99"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle12012"
+       r="0.25"
+       cy="0"
+       cx="100"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <path
+       id="path11268-1"
+       d="m 10,0 a 2.5,2.5 0 1 1 5,0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-opacity:0.25"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="stroke:#000000"
+       id="circle11832"
+       r="0.25"
+       cy="0"
+       cx="10"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <path
+       id="path11268-1-8"
+       d="m 15,0 a 2.5,2.5 0 1 1 5,0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-opacity:0.25"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="stroke:#000000"
+       id="circle11852"
+       r="0.25"
+       cy="0"
+       cx="20"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <circle
+       style="stroke:#000000"
+       id="circle11842"
+       r="0.25"
+       cy="0"
+       cx="15"
+       stroke-width="0.1"
+       stroke="black"
+       fill="white" />
+    <path
+       id="path11352-0"
+       d="m 42,0 a 3.5,3.5 0 1 1 7,0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-opacity:0.25"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path11352-0-0"
+       d="m 35,0 a 3.5,3.5 0 1 1 7,0"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-opacity:0.25"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-opacity:0.25"
+       id="path11522-5"
+       d="M 51,0 A 8.5,8.5 0 1 1 68,0"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
